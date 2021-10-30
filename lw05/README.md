@@ -13,7 +13,7 @@
 5. Подключение JS-библиотек к HTML-странице.
 6. Написание собственного скрипта. Добавление обработки формы.
 7. Подключение средства веб-аналитики
-8. Регистрация Ваших трудов в [google-форме](https://docs.google.com/forms/d/e/1FAIpQLSfr1WDhvnp0Wn75XRj7wag4iin8-jWFPJiPAe_zVzY_SidGGw/viewform?usp=sf_link).
+8. Регистрация Ваших трудов в [google-форме](https://docs.google.com/forms/d/e/1FAIpQLSexhK4RzgSkujsWNwG3Tqvy6g7f1RxyjYIM52J8QhvdZBFcyA/viewform?usp=sf_link).
 
 ## Основные понятия в DOM-дереве
 
